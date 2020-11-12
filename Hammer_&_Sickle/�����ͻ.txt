@@ -1,0 +1,56 @@
+Map Name: Hammer & Sickle
+Players: 4
+Made by: Bambi32	
+
+
+
+This is a remake of the classic Red Alert 2 map, Hammer & Sickle. The layout has been slightly 
+changed to balance each start position. 
+
+
+
+
+Gameplay design:
+The most challenging part is to fully balance a asymmetrical map like Hammer & Sickle. This fact
+leads to a slightly change of the layout. 
+
+For example the north-western starting position orginally had an disadvantage towards the other
+starting positions. It had to many and wide entrances. So the entrance to the plateau has been 
+moved more south to the center. So basecally one entrance was removed by this change.
+
+The upper bridges arent destroyable to denie a huge advantage for the starting position on the 
+island.
+
+1 more entrance has been added to the 2 starting positions in the south and to the upper center
+plateau.
+
+Some hills at the beachside of the starting position on the island and in the north of
+the centerplateau have been added to provide more protection.
+
+The center offers a vehicle repairing station and a observation outpost, giving you the view 
+of all attack routes on land.
+
+You can play this map north vs south and east vs west. And I recommend to play it FFA as each
+player position is unique but still balanced.
+
+
+
+
+Economy design:
+Allthough this map is a very asymmetrical map it provides a well balanced and to the map adapted
+economy design.
+It holds 20 orenodes like normal 4 player maps but also 16 oilderricks, which have a armor 
+increase to 3500 hp. Oilderricks have an important role on this map, because the map will offer 
+long battles, due to well protectable base areas. And after a long battle the most orenodes will 
+be empty and unnessecary to protect. So the economy design of this map will use a strategic 
+expansion point system. Each of the 12 expansion points will offer 1 oilderrick and 1 orenode.
+
+Economy design in detail:
+The starting position offers 2 orenodes and 2 oil derricks. The nearest expansion point of each 
+starting position is placed at a well protectable area.
+Moreover there is a second expansion point for each player more in the center of the map.
+These are more difficult to protect and are designed for late game, when the orenodes at the
+starting positions are empty.
+The water area holds 4 expansion points and each is placed between 2 starting positions, to 
+support a more king of the hill like gameplay to this water area.
+

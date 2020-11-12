@@ -1,0 +1,24 @@
+Map Name: Cannon Fodder
+Author Name: TiberianFiend
+E-mail: bloodthing@hotmail.com
+Game: Red Alert 3
+Game Type: Skirmish/Multiplayer
+Max Players: 3
+
+Map Description:
+After playing Red alert 2 again, I really wanted to get a map from it and recreate it for Red Alert 3. With all this in mind I needed a map which was unique and could appeal to both navy and ground forces. So I have now have completed the first version of Cannon Fodder so that everyone else can enjoy it as much as I have. 
+
+The layout from the original, has only changed on the water due to the Naval construction. I always remember that the starting areas were generaly big enough for a small high tech base so I changed it a bit so that it remains the same. 
+The base area is big enough for a small higher tier base and two of the cliff starting points have a small village to occupy, AA and other infantry help protect the base. The other starting point has more area to build in, making it good for a large higher tier base without the natural AA village garrison area. 
+
+There are 3 off-shore islands with an Ore Node on each side and 2 major Tech islands for Navy yards and a single Oil Pump. 
+Each starting area will have a Radar Tech building located at the far back of the base, which is great to keep an eye on what the other player is sending out to hit you with. 
+
+------------------------------------------------------------------------------------------ 
+A little background story to suit the map. 
+
+Small-tropical islands were used to hold strategic positions, only havana and hawaii held as direct access to America. 
+This island was stumbled across by the allies during the fall back of the empire, finding that the main island and the surounding islands rich with resources, the allies quickly occupied population to maintain a "resource fall-back plan" should the Empire spring more suprises such as the talented Yuriko Omega or the Shogun Ex, the island also contained a great array of transition metals which were suitable for japan's mass robotic production, without it japan wouldn't of been able to start such a ambitious and successfull attack on russia. 
+
+Many spring rain-falls in the local area have cause mass destruction and have left many ship wreaks along the coast, flooding was a major issue in access to on-land oil, in an attempt to balance this out many companies built oil platforms on land, however the stresses of the aftermath from the floods proved too much for any machine installed there, so attempts to gain a steady flow of oil have since been abandoned due to construction costs. 
+------------------------------------------------------------------------------------------ 

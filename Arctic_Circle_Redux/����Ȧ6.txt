@@ -1,0 +1,28 @@
+This is Arctic Circle Redux made by TheWorms, remake of the Original Arctic Circle map in RA2
+
+Features:
+4 players start in a small island while the 2 start in a bigger island. Expansion nodes are located within the lake, near the mountains and in the middle island. Oil derricks are scattered around the map. 2 dry docks for capture to enhance naval gameplay. Bridges connect all land masses to provide transport for land units.
+
+Ver 1.3 Future Notes:
+-Addition of reinforcement scripts by capturing an outpost in the center island. Capture leads to Tesla Tank reinforcments.
+(decision in progress)
+
+Ver 1.2:
+-Capture one of the outpost in the small islands to call for reinforcements. The consisting infantry differ from what outpost you capture. These are protected by a tesla coil and flak cannons. Be sure to destroy these first.
+Fix:
+-Deleted some objects to speed loading process
+-Replaced textures which light up with the global light
+note: I did not replace the snow road in the center island even though it also light up because I find this road fitting and there is no other road texture which satisfies the pavement road under snow setting.
+-Fixed minimap. (thanks to Acid_Crash)
+-Fixed map problem where some cliffs are passable like beach landfall allowing amphibious units to go through and not with the bridge or through the correct beach.
+
+Ver 1.1:
+Fix:
+-Global lighting edited.
+-Added more textures and rocks.
+
+Ver 1.0:
+-Each player has 1 observation post for capture
+-Wild bears are hidden in forest areas. Be sure to hunt them before planning to capture a tech structure with an engineer.
+-Cannons are placed in the middle island available for capture. To control one, capture the reactor near the cannon. If either the reactor or the cannon is destroyed, both are destroyed. (even though the reactor provides build radius, not all factions will benefit)
+

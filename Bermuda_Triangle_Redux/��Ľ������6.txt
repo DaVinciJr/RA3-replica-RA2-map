@@ -1,0 +1,20 @@
+Welcome to Bermuda Triangle Redux by johndabeast
+
+This is a remake of the Bermuda Triangle Map in Yuri’s Revenge.
+
+Do not copy this map without my permission. You can get permission from me by emailing me at johns[dot]dabeast[at]gmail[dot]com.
+
+To install this map (on Win XP) go to 
+C:\Documents and Settings\Your_Name\Application Data\Red Alert 3\Maps and insert this folder into it.
+
+Have Fun!
+
+
+
+Mini-Map made by Acid_Crash.
+
+Vikestart helped with the reinforcement Scipting and a big thanks to FRISH for making the radar script work out. 
+
+
+Please Note:
+Map available in stand-alone form or in map-pack form from Vikestart at http://www.cnchq.navhost.com 

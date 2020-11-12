@@ -1,0 +1,39 @@
+Map Name: Let There Be Fight [RA2 REMAKE]
+Author Name: Clone11b
+Author E-mail: magnumrd@aol.com
+Game: Red Alert 3
+Max Players: 2 (Skirmish/Multi)
+Ore Nodes: 12
+Oil Derricks: 2
+Observation Towers: 2
+
+=========================================
+Notes:
+=========================================
+This map is a partial remake of the Red Alert 2 map, Let There Be Fight. The reason it is a partial remake
+is that I decided to add more water and a middle island for more strategic options. There is only 1 entry point
+into each of the starting positions, with 2 Ore Nodes close by (1 on water and 1 on land) to expand to. There
+is also an Oil Derrick nearby for an extra income boost. The middle island holds 2 Ore Nodes and can be
+easily cut off from the enemy. The use of a Navy will prove very useful in taking out bases.
+
+Enjoy
+
+
+
+>>>>>>>>>>>>>>>INSTALLATION<<<<<<<<<<<<<<<
+
+How to install Command & Conquer: Red Alert 3 maps - Windows Vista Users:
+
+To install the maps if your using Windows Vista, simply extract the the folder from the 
+downloaded compressed file to your C:\Users\[USER LOGIN NAME]\AppData\Roaming\Red Alert 3\Maps
+folder on your hard drive.
+
+How to install Command & Conquer: Red Alert 3 maps - Windows XP Users:
+
+To install the maps if your using Windows XP, simply extract the folder from the downloaded
+file to your C:\Documents and Settings\[USER LOGIN NAME]\Application Data\Red Alert 3\Maps folder 
+on your hard drive.
+
+Thanks to:
+
+Acid_Crash - Made minimap

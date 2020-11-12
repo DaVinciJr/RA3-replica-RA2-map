@@ -1,0 +1,56 @@
+OCEANSIDE REVISITED
+==============================================
+Map Information:
+
+Name: 			Oceanside Revisited
+Author: 		ZeNewk & Acid_Cr@sh
+Size:			700x550
+Players: 		2-4, 2vs2 recommended
+
+==============================================
+Description:
+
+Map based on the original Oceanside map from Red Alert 2 Yuris Revenge.
+It consists of 4 unique assymetrical islands for base bulding and a central platform with tech structures 
+and Ore Nodes of strategical value.
+
+==============================================
+Gameplay notes: 
+
+1) To balance the gameplay (Ore Node and tech structures locations) 
+   suggest choosing starting locations this way:
+
+Classical gameplay:	Team 1 - on left and top start locations 
+			Team 2 - on right and bottom start locations
+
+Intense gameplay:	Team 1 - on top and bottom start locations
+			Team 2 - on left and right start locations
+
+
+2) Player can avoid early infantry rushes by destroing bridges next to him.
+3) Every Player has 2 Ore Nodes avaliable instantly and 1 Ore Node that requires expansion but still is located nearby on land.
+4) Every Player has a tech structure on his island that can be captured easy and quiclky.
+5) There are 3 Oil Derricks in corners of map that can boost economy on early stages of game. Suggest taking them as soon as possible!
+6) There is a very low propability that you can win this battle without a naval force.
+
+==============================================
+Installation:
+
+To add map (for XP) extract archive in the following folder
+
+C:\Documents and Settings\<Your profile name>\Application Data\Red Alert 3\Maps
+
+==============================================
+Version info:
+
+This is final version of the map. 
+Report any bugs/suggestions here:
+
+http://forums.commandandconquer.com/jforum/posts/list/7313.page
+You can also contact me at this forum by PM user "Acid_Cr@sh"
+
+==============================================
+Modifying of this map or any of its parts without permission of creator (me) is forbidden!
+==============================================
+
+by ZeNewk (15.02.2009)

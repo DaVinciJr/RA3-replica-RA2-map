@@ -1,0 +1,14 @@
+Name: Isle of War
+Author Name: Speeder
+Author E-mail: speederyr@hotmail.com
+Game: Red Alert 3 & Uprising
+Game Type: Skirmish
+Max Players: 2 (1v1)
+
+Description: This is yet another remake of Red Alert 2 map for Red Alert 3/Uprising. This time it's Isle Of War - small island map where two players battle face to face in isolation.
+
+Important note at the beginning - this map is NOT a recreation of original Isle Of War, only the shape of the map remains unchanged. The map is set in a totally different theatre as the battle takes place on one of the Japanese islands, so you will get more indepth knowledge about Japanese culture. Architecture at least.
+However, there are really lots of resources on the map. Two Ore nodes are located in water, while 4 expansion nodes are located on cliffs. Each player begins with two ore nodes, as usual. There are two oil derricks in the ocean and two observation posts placed in strategic places. Capture them to get serious advantage over your opponent - of course until he captures one of his own.
+Enjoy the map and stay tuned for more, not just remakes.
+
+Speeder - http://mo.cncguild.net

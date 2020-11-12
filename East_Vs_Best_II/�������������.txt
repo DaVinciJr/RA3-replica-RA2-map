@@ -1,0 +1,19 @@
+EAST VS BEST II
+CREATOR: DOGS
+PLayers: 6
+SIZE 500x500
+TYPE: TEMPERATE
+
+
+Known bugs:
+
+Bridges can be destroyed once but are indestructable once repaired.
+
+
+Installation: once extracted copy the entire East_VS_Best_II folder can copy it on to
+
+C:\Documents and Settings\*user*\Application Data\Red Alert 3\Maps (Xp users)
+
+C:\Users\user\Application Data\Red Alert 3\Maps (Vista Users)
+
+Enjoy.
